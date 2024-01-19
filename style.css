@@ -1,0 +1,17 @@
+.headp{
+background-color: aqua;
+}
+.box{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+#piz{
+    size: 90px;
+}
+div hr{
+    color: gray;
+}
